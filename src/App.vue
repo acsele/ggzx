@@ -1,11 +1,14 @@
-<script setup lang="ts"></script>
-
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <h1>hello</h1>
 </template>
 
-<style scoped></style>
+<script setup lang="ts">
+const a = 0
+const str = 'hi'
+</script>
+
+<style scoped>
+.class1 {
+  border: 10px;
+}
+</style>
