@@ -8,7 +8,5 @@ const str = 'hi'
 </script>
 
 <style scoped>
-.class1 {
-  border: 10px;
-}
+
 </style>
