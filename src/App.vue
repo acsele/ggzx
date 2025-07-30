@@ -3,15 +3,11 @@
 </template>
 
 <script setup lang="ts">
-  const a = 0
+const a = 0
 const str = 'hi'
-function sss()
-
-
-{
-        const a = 1;
-  return a + 1;
-
+function sss() {
+  const a = 1
+  return a + 1
 }
 </script>
 
